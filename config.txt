@@ -1,5 +1,5 @@
-token=NTI3MTc4NzgzNzgyOTkzOTU5.DweiPA.DGpzSiVWNRrXWjIzv1coxdSE648
-owner=507978288250093568
+token=NTMyNTYxOTg0NDU4MDYzODc1.Dx0Bkg._6dDhi7K5dnRHzigwHKzGs_EaZc
+owner=528188581081120778
 prefix=h
 game=hhelp l hplay
 stayinchannel=true
