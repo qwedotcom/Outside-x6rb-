@@ -1,4 +1,4 @@
-token=NTMyNTYxOTg0NDU4MDYzODc1.Dx0Bkg._6dDhi7K5dnRHzigwHKzGs_EaZc
+token=NTQwNTI2ODIxNDE5MTIyNjkw.DzSMWw.CTd3eNrCXDve7Pan6wJcuAIV3DY
 owner=528188581081120778
 prefix=x
 game=Type xhelp , Outside
