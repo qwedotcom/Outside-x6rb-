@@ -1,6 +1,6 @@
 token=NTMyNTYxOTg0NDU4MDYzODc1.Dx0Bkg._6dDhi7K5dnRHzigwHKzGs_EaZc
 owner=528188581081120778
-prefix=h
-game=hhelp l hplay
+prefix=x
+game=Type xhelp , Outside
 stayinchannel=true
-songinstatus=true
+songinstatus=false
