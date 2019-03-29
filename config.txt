@@ -1,6 +1,6 @@
 token=NTM0MDU5Mjg2NDYxMTUzMjgx.XJ6JOQ.kn7TZWigR05XOJlgFOiVGVJ4KKk
-owner=342430414427914240
-prefix=s
-game=Atending Samntha ,
+owner=528188581081120778
+prefix=n
+game=Atending Neptune ,
 stayinchannel=true
 songinstatus=false
