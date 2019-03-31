@@ -1,6 +1,6 @@
 token=NTM0MDU5Mjg2NDYxMTUzMjgx.XJ6JOQ.kn7TZWigR05XOJlgFOiVGVJ4KKk
 owner=528188581081120778
-prefix=n
-game=Atending Neptune ,
+prefix=L
+game=Atending Lujain ,
 stayinchannel=true
 songinstatus=false
